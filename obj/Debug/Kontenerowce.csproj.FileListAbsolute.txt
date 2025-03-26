@@ -1,0 +1,6 @@
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\bin\Debug\Kontenerowce.exe
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\bin\Debug\Kontenerowce.pdb
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\obj\Debug\Kontenerowce.csproj.AssemblyReference.cache
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\obj\Debug\Kontenerowce.csproj.CoreCompileInputs.cache
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\obj\Debug\Kontenerowce.exe
+C:\Users\conta\Documents\Acceleration\PJATK\APBD Aplikacje Baz Danych\APBD-PD2\Kontenerowce\obj\Debug\Kontenerowce.pdb
